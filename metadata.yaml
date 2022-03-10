@@ -1,5 +1,8 @@
 _repo: The-Little-Review-March-1916-Vol-3-No-1_67467
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67467-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50946
     wikipedia: https://en.wikipedia.org/wiki/Margaret_C._Anderson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67467#The-Little-Review-March-1916-Vol-3-No-1
 gutenberg_issued: '2022-02-22'
 identifiers:
   gutenberg: '67467'
